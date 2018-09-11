@@ -1,7 +1,7 @@
 # wavyspot
 Music sharing social media website
 
-Searches executed against the public iTunes Search API
+Searches the public iTunes Search API
 
 SEARCH / POST / COMMENT / VOTE / PREVIEW / BUY
 
